@@ -5,6 +5,7 @@
 # Am Joseph Kagimu
 
 **Frontend Developer · Open-Source Health Tech Contributor**
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![OpenMRS](https://img.shields.io/badge/OpenMRS-O3_Contributor-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA0SURBVDhPY/hPIWBEFkAXpLpGFMDEQCkYGhpRNKIAJgZKwdDQiAIYGSgFQ0MjCvj/HwBJWA0P5VDxHAAAAABJRU5ErkJggg==)](https://github.com/openmrs)
