@@ -25,7 +25,7 @@
 ---
 
 
-### ✅ SOME OF MY Merged Contributions
+### ✅ SOME OF Merged Contributions
 
 | Repository | Contribution | PR |
 |:-----------|:-------------|:--:|
