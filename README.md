@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Joseph Kagimu
+# Am Joseph Kagimu
 
 **Frontend Developer · Open-Source Health Tech Contributor**
 
