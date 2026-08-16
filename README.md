@@ -24,17 +24,14 @@
 
 ---
 
-### 🔭 Currently Working On
-
-- Fixing date value submission in the **O3 Form Engine** ([openmrs-esm-form-engine-lib](https://github.com/openmrs/openmrs-esm-form-engine-lib))
-- Contributing features and fixes across the **O3 frontend ecosystem**
-
----
 
 ### ✅ Merged Contributions
 
 | Repository | Contribution | PR |
 |:-----------|:-------------|:--:|
+| **openmrs-esm-form-engine-lib** | Added `getLatestObsForConceptSet` helper to support multi-checkbox observations | [#734](https://github.com/openmrs/openmrs-esm-form-engine-lib/pull/734) |
+| **openmrs-esm-patient-chart** | Prevented saving duplicate immunization doses with inline validation | [#3265](https://github.com/openmrs/openmrs-esm-patient-chart/pull/3265) |
+| **openmrs-esm-patient-management** | Fixed scheduled appointments metrics card label | [#1478](https://github.com/openmrs/openmrs-esm-patient-management/pull/1478) |
 | **openmrs-esm-stock-management** | Implemented server-side user search to fix role scope assignment on large systems | [#567](https://github.com/openmrs/openmrs-esm-stock-management/pull/567) |
 | **openmrs-esm-core** | Expanded datepicker unit test coverage from 20 → 34 tests | [#1809](https://github.com/openmrs/openmrs-esm-core/pull/1809) |
 | **openmrs-esm-patient-management** | Added E2E test for patient photo upload during registration | [#2635](https://github.com/openmrs/openmrs-esm-patient-management/pull/2635) |
