@@ -1,15 +1,15 @@
-Hi there 👋
+## Hi there 👋
 
 <div align="center">
 
-Am Joseph Kagimu
+# Am Joseph Kagimu
 
 **Frontend Developer · Open-Source Health Tech Contributor**
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Carbon Design](https://img.shields.io/badge/Carbon_Design-161616?style=for-the-badge&logo=ibm&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Carbon Design System](https://img.shields.io/badge/Carbon_Design_System-161616?style=for-the-badge&logo=ibm&logoColor=white)](https://carbondesignsystem.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)]()
