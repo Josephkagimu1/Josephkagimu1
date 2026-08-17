@@ -13,7 +13,6 @@
 [![Carbon Design System](https://img.shields.io/badge/Carbon_Design_System-161616?style=for-the-badge&logo=ibm&logoColor=white)](https://carbondesignsystem.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)]()
 
 </div>
 
