@@ -1,15 +1,16 @@
-## Hi there 👋
-
 <div align="center">
 
-# Am Joseph Kagimu
+# Joseph Kagimu
 
 **Frontend Developer · Open-Source Health Tech Contributor**
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![OpenMRS](https://img.shields.io/badge/OpenMRS-O3_Contributor-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA0SURBVDhPY/hPIWBEFkAXpLpGFMDEQCkYGhpRNKIAJgZKwdDQiAIYGSgFQ0MjCvj/HwBJWA0P5VDxHAAAAABJRU5ErkJggg==)](https://github.com/openmrs)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)]()
+[![OpenMRS](https://img.shields.io/badge/OpenMRS-O3_Contributor-orange?style=for-the-badge)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
 
 </div>
 
@@ -24,8 +25,7 @@
 
 ---
 
-
-### ✅ SOME OF Merged Contributions
+### ✅ Some of Merged Contributions
 
 | Repository | Contribution | PR |
 |:-----------|:-------------|:--:|
@@ -44,8 +44,8 @@
 
 ```text
 Languages       TypeScript · JavaScript · HTML · CSS
-Frameworks      React · Carbon Design System
+Frameworks      React · Carbon Design System · Bootstrap
+Backend         Node.js · Firebase
 Testing         Playwright · Jest · React Testing Library
 Tools           Git · Yarn · Webpack · Turborepo
 Platforms       OpenMRS O3 · GitHub Actions
-
