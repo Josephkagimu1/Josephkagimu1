@@ -4,6 +4,13 @@
 
 # Am Joseph Kagimu
 
+const developer = {
+    name: "Joseph Kagimu",
+    role: "Frontend Developer",
+    location: "Uganda 🇺🇬",
+    mission: "Building open-source tools for global health"
+};
+
 **Frontend Developer · Open-Source Health Tech Contributor**
 
 
