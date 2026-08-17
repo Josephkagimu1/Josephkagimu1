@@ -45,7 +45,7 @@
 ```text
 Languages       TypeScript · JavaScript · HTML · CSS
 Frameworks      React · Carbon Design System · Bootstrap
-Backend         Node.js · Firebase
 Testing         Playwright · Jest · React Testing Library
 Tools           Git · Yarn · Webpack · Turborepo
-Platforms       OpenMRS O3 · GitHub Actions
+Platforms       OpenMRS O3 · GitHub Actions 
+Backend         Node.js · Firebase · Java
