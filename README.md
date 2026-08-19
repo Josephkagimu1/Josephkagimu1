@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🏥 Active contributor to **OpenMRS 3.0 (O3)** — the next-generation open-source medical record system
+- 🏥 Active contributor to **OpenMRS 3.0 (O3)** 
 - 🇺🇬 Based in **Uganda**
 - 💡 Passionate about using technology to strengthen health systems in low-resource settings
 - 🎯 Focused on **frontend development**, **testing**, and **developer experience**
