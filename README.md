@@ -22,7 +22,7 @@
 - 🏥 Active contributor to **OpenMRS 3.0 (O3)** 
 - 🇺🇬 Based in **Uganda**
 - 💡 Passionate about using technology to strengthen health systems in low-resource settings
-- 🎯 Focused on **frontend development**, though I can also do a **Backend Project** (making me a full stack developer)
+- 🎯 Focused on **frontend development**, though I can also work on a full stack application
 
 ---
 
