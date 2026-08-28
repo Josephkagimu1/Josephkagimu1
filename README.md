@@ -32,6 +32,7 @@
 [![Email](https://img.shields.io/badge/Email-kagimujoseph00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kagimujoseph00@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+256_754151093-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256754151093)
 
+---
 
 ### ✅ Some of Merged Contributions
 
