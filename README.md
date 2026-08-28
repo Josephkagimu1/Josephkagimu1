@@ -39,7 +39,6 @@
 | **openmrs-esm-patient-chart** | Resolved 9 Dependabot security alerts (Angular dependencies) | [#3501](https://github.com/openmrs/openmrs-esm-patient-chart/pull/3501) |
 | **openmrs-esm-patient-chart** | Patched undici vulnerabilities via jsdom upgrade | [#3510](https://github.com/openmrs/openmrs-esm-patient-chart/pull/3510) |
 
----
 
 ### 🛠️ Tech Stack
 
@@ -51,7 +50,6 @@ Tools           Git · Yarn · Webpack · Turborepo
 Platforms       OpenMRS O3 · GitHub Actions 
 Backend         Node.js · Firebase · Java
 
----
 
 
 
@@ -61,4 +59,3 @@ Backend         Node.js · Firebase · Java
 [![Email](https://img.shields.io/badge/Email-kagimujoseph00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kagimujoseph00@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+256_754151093-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256754151093)
 
----
