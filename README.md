@@ -53,6 +53,10 @@ Backend         Node.js · Firebase · Java
 
 ---
 
+
+---
+---
+
 ### 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-kagimujoseph00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kagimujoseph00@gmail.com)
