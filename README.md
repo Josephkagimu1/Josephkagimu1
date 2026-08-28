@@ -12,7 +12,7 @@
 [![Carbon Design System](https://img.shields.io/badge/Carbon_Design_System-161616?style=for-the-badge&logo=ibm&logoColor=white)](https://carbondesignsystem.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
-
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Josephkagimu1/Josephkagimu1/blob/main)
 </div>
 
 ---
